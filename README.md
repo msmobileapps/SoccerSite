@@ -5,5 +5,6 @@
 ### `yarn start`
 
 see app at http://localhost:3000/
-### `yarn build`
+### `npm run deploy`
 
+see app at https://msmobileapps.github.io/SoccerSite/
