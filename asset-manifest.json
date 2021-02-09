@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SoccerSite/static/css/main.4fd5e0fa.chunk.css",
+    "main.js": "/SoccerSite/static/js/main.3f36686d.chunk.js",
+    "main.js.map": "/SoccerSite/static/js/main.3f36686d.chunk.js.map",
+    "runtime-main.js": "/SoccerSite/static/js/runtime-main.66d993d5.js",
+    "runtime-main.js.map": "/SoccerSite/static/js/runtime-main.66d993d5.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/SoccerSite/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.804518b0.chunk.js": "/SoccerSite/static/js/2.804518b0.chunk.js",
+    "static/js/2.804518b0.chunk.js.map": "/SoccerSite/static/js/2.804518b0.chunk.js.map",
+    "static/js/3.461ad593.chunk.js": "/SoccerSite/static/js/3.461ad593.chunk.js",
+    "static/js/3.461ad593.chunk.js.map": "/SoccerSite/static/js/3.461ad593.chunk.js.map",
+    "index.html": "/SoccerSite/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/SoccerSite/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.4fd5e0fa.chunk.css.map": "/SoccerSite/static/css/main.4fd5e0fa.chunk.css.map",
+    "static/js/2.804518b0.chunk.js.LICENSE.txt": "/SoccerSite/static/js/2.804518b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d993d5.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.804518b0.chunk.js",
+    "static/css/main.4fd5e0fa.chunk.css",
+    "static/js/main.3f36686d.chunk.js"
+  ]
+}
